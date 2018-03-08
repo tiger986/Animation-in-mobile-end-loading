@@ -7,4 +7,4 @@ Animation in mobile end loading
 <br>
 2.page loading completion
 <br>
-![image](https://github.com/tiger986/mobileLoadingAnimation/blob/master/img/2.jpg)
+![image](https://github.com/tiger986/mobileLoadingAnimation/blob/master/img/2.png)
